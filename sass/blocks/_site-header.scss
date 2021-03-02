@@ -1,0 +1,22 @@
+
+.site__header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+   
+}
+.site__header-top{
+    padding: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+.site__header--container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo{
+    vertical-align: middle;
+}

@@ -1,0 +1,26 @@
+.footer_lists{
+    width: 100%;
+    background-color: #3cc3b5;
+}
+.list--container{
+    display: flex;
+    justify-content: space-between;
+}
+.lists{
+    width: 100%;
+    margin-top: 30px;
+}
+thead tr th{
+    font-size: 27px;
+    color: rgb(255, 255, 255);
+    line-height: 0.926;
+    text-align: left;
+    font-weight: lighter;
+}
+tbody tr{
+    font-size: 15px;    
+    color: rgb(255, 255, 255);
+    line-height: 1.867;
+    font-family: "OpenSans";
+    text-align: left;    
+}
